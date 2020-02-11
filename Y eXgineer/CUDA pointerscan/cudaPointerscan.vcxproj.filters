@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cu;cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="settings">
+      <UniqueIdentifier>{7289221d-561d-4684-b5ce-695952d412f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header">
+      <UniqueIdentifier>{e77dc959-c3b6-4c88-aa5d-2858262d74f5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bigalloc.cu">
+      <Filter>src</Filter>
+    </None>
+    <None Include="cudapointervaluelist.cu">
+      <Filter>src</Filter>
+    </None>
+    <None Include="cudapscan.cu">
+      <Filter>src</Filter>
+    </None>
+    <None Include="pointerscan.cu">
+      <Filter>src</Filter>
+    </None>
+    <None Include="pscanfileaccess.cu">
+      <Filter>src</Filter>
+    </None>
+    <None Include="settings.nvlink">
+      <Filter>settings</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pscanfileaccess.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="bigalloc.cuh">
+      <Filter>header</Filter>
+    </CustomBuild>
+    <CustomBuild Include="cudapointervaluelist.cuh">
+      <Filter>header</Filter>
+    </CustomBuild>
+    <CustomBuild Include="pointerscan.cuh">
+      <Filter>header</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,124 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: The property "IntermediateOutputPath" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: The property "CleanFile" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+Environment at start of build:
+76eX = C:\Users\lelan\source\_76eX_
+ADVISOR_2020_DIR = C:\Program Files (x86)\IntelSWTools\Advisor 2020\
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\lelan\AppData\Roaming
+BAZEL_VS = C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
+Boost_INCLUDE_DIR = C:\boost\
+CatEngine = C:\Users\lelan\source\Libraries2\CatEngine\CatEngine
+ChocolateyInstall = C:\ProgramData\chocolatey
+ChocolateyLastPathUpdate = 132253123999173605
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = LELAND-BOOK-2B
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+DXSDK_DIR = C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\
+FACADES_4.5.0.0 = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades
+FACADES_4.5.1.0 = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Facades
+FACADES_4.5.2.0 = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades
+FACADES_4.6.0.0 = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Facades
+FACADES_4.6.1.0 = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades
+FACADES_4.7.1.0 = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.1\Facades
+FACADES_4.7.2.0 = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Facades
+FO76 = C:\Program Files (x86)\Bethesda.net Launcher\games\Fallout76
+FODIR = C:\Program Files (x86)\Bethesda.net Launcher\games\Fallout76
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+GFXSDK = C:\Program Files (x86)\Scaleform\GFx SDK 4.0\
+GIT_LFS_PATH = C:\Program Files\Git LFS
+GOOGLE_APPLICATION_CREDENTIALS = C:\Users\lelan\source\_76eX_\data\credentials\eXlog-9b6f1b16e8f7.json
+GOPATH = C:\Users\lelan\go
+HOMEDRIVE = C:
+HOMEPATH = \Users\lelan
+ICPP_COMPILER20 = C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020.0.166\windows\
+IDADIR = C:\Program Files\IDA 7.2
+IDALOG = C:\Users\lelan\OneDrive\Desktop\FO76\Traces\_IDALOG.txt
+idasdk = C:\Program Files\IDA 7.2\sdk\idasdk72
+IDASUPPORT = C:\Users\lelan\source\Frameworks\ida-support-library-code
+INSPECTOR_2020_DIR = C:\Program Files (x86)\IntelSWTools\Inspector 2020\
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+INTEL_LIBITTNOTIFY64 = C:\Intel\IntelSEAPI\bin\IntelSEAPI64.dll
+INTEL_LICENSE_FILE = C:\Program Files (x86)\Common Files\\Intel\Licenses;C:\Program Files (x86)\Common Files\Intel\Licenses
+INTEL_SEA_SAVE_TO = C:\Intel\Trace\Trace.log
+I_MPI_ROOT = C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020.0.166\windows\mpi
+JAVA_HOME = C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25
+KAITAI_STRUCT_COMPILER_HOME = C:\Program Files (x86)\kaitai-struct-compiler\
+LLVM_DIR = C:\Users\lelan\source\Frameworks\vcpkg\installed\x64-windows-static\share\llvm
+LOCALAPPDATA = C:\Users\lelan\AppData\Local
+LOGONSERVER = \\LELAND-BOOK-2B
+LUA_DIR = C:\Program Files (x86)\Lua\5.3
+MSBuildLoadMicrosoftTargetsReadOnly = true
+MSBUILDWARNONUNINITIALIZEDPROPERTY = True
+MVSVC = C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC
+NUMBER_OF_PROCESSORS = 8
+NVTOOLSEXT_PATH = C:\Program Files\NVIDIA Corporation\NvToolsExt\
+OneDrive = C:\Users\lelan\OneDrive - licornetech.com
+OneDriveCommercial = C:\Users\lelan\OneDrive - licornetech.com
+OneDriveConsumer = C:\Users\lelan\OneDrive
+OS = Windows_NT
+Path = C:\Python38\Scripts\;C:\Python38\;C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020.0.166\windows\mpi\intel64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Perl64\site\bin;C:\Perl64\bin;C:\Program Files (x86)\Embarcadero\Studio\20.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\20.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl\Win64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\10\Debuggers\x64;C:\Python27amd64\;C:\Python27amd64\Scripts\;C:\Program Files\Git LFS;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\010 Editor;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Qt\5.13.0\msvc2017_64\bin;c:\code\depot_tools;C:\lazarus\fpc\3.0.4\bin\i386-Win32;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Go\bin;C:\Users\lelan\source\Reversing\retdec\bin;C:\Program Files (x86)\kaitai-struct-compiler\bin;C:\Program Files\SlikSvn\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\CMake\bin;C:\Qt\5.13.2\winrt_x64_msvc2017\bin;C:\mingw64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.25.28508\include;C:\Program Files\Microsoft VS Code Insiders\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\LLVM\bin;C:\Program Files\nodejs\;C:\Users\lelan\AppData\Local\ValidatorBuddy;C:\Users\lelan\AppData\Local\Microsoft\WindowsApps;C:\Users\lelan\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Dr. Memory\bin\;C:\Users\lelan\AppData\Local\Programs\Fiddler;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC;c:\code\depot_tools;C:\Users\lelan\source\vcpkg;C:\Users\lelan\.dotnet\tools;C:\Users\lelan\go\bin;C:\Program Files (x86)\mitmproxy\bin;C:\mingw64\bin;C:\Python27;C:\Python27\Scripts;C:\Users\lelan\AppData\Local\Programs\Python\Python37;C:\Users\lelan\AppData\Local\Programs\Python\Python37\Scripts;C:\bazel;C:\Program Files\JetBrains\PyCharm 2019.3.1\bin;C:\Users\lelan\AppData\Local\GitHubDesktop\bin;C:\Users\lelan\AppData\Roaming\npm;C:\Program Files (x86)\Meld;
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+pin = c:\pin
+PIN_ROOT = C:\pin
+PkgDefApplicationConfigFile = C:\Users\lelan\AppData\Local\Microsoft\VisualStudio\16.0_a4b34318\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 8e0a
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Microsoft Message Analyzer\PowerShell\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell
+PUBLIC = C:\Users\Public
+PyCharm = C:\Program Files\JetBrains\PyCharm 2019.3.1\bin;
+PYTHON = C:\Python27
+PYTHON_HOME = C:\Python27
+Python_ROOT_DIR = C:\Users\lelan\AppData\Local\Programs\Python\Python37
+QTDIR = C:\Qt\5.13.2\msvc2017_64
+QtMsBuild = C:\Users\lelan\AppData\Local\QtMsBuild
+ServiceHubLogSessionKey = 6DA5C5D7
+SESSIONNAME = Console
+SOURCE = C:\Users\lelan\source
+Source_Frameworks = C:\Users\lelan\source\Frameworks
+Source_Libraries = C:\Users\lelan\source\_Libraries
+SSLKEYLOGFILE = C:\users\lelan\premaster.txt
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\lelan\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\lelan\AppData\Local\Temp
+USERDOMAIN = LELAND-BOOK-2B
+USERDOMAIN_ROAMINGPROFILE = LELAND-BOOK-2B
+USERNAME = lelan
+USERPROFILE = C:\Users\lelan
+VCPKG_DEFAULT_TRIPLET = x64-windows-static
+VCPKG_ROOT = C:\Users\lelan\source\vcpkg
+VisualStudioDir = C:\Users\lelan\OneDrive\Documents\Visual Studio 2019
+VisualStudioEdition = Microsoft Visual Studio Enterprise 2019
+VisualStudioVersion = 16.0
+VS110COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VS2017INSTALLDIR = C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools
+VS2019INSTALLDIR = C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview
+VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSSKUEDITION = Enterprise
+VTUNE_PROFILER_2020_DIR = C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\
+windir = C:\WINDOWS
+
+C:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\CUDA pointerscan\cudaPointerscan.vcxproj(234,5): error MSB4019: The imported project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\BuildCustomizations\NvCudaLinker.v5.5.targets" was not found. Confirm that the expression in the Import declaration "C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\\BuildCustomizations\NvCudaLinker.v5.5.targets" is correct, and that the file exists on disk.
+
+Project Evaluation Performance Summary:
+        0 ms  C:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\CUDA pointerscan\cudaPointerscan.vcxproj   1 calls
+
+Project Performance Summary:
+        0 ms  C:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\CUDA pointerscan\cudaPointerscan.vcxproj   1 calls
+                  0 ms  Build                                      1 calls

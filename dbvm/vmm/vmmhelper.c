@@ -1445,7 +1445,7 @@ int vmexit(pcpuinfo currentcpuinfo, UINT64 *registers, void *fxsave)
     sendstringf("|   7: toggle debugmode (%d)             |\n\r",debugmode);
     sendstring("|   8: set breakpoint                   |\n\r");
     sendstring("|   9: display physical memory          |\n\r");
-    sendstring("|   l: Lua Engine                       |\n\r");
+    sendstring("|   l: Lua gineer                       |\n\r");
     sendstring("|   0: quit virtual machine             |\n\r");
   //sendstring("|   p: previous event                   |\n\r");
     sendstring("\\---------------------------------------/\n\r");

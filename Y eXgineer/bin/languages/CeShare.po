@@ -1,0 +1,225 @@
+#: frmCEShareeXBrowser.TTrainerForm.Caption
+msgid "eX Browser"
+msgstr ""
+
+#: frmCEShareeXBrowser.CELabel.Caption
+msgid "Processname:"
+msgstr ""
+
+#: frmCEShareeXBrowser.Title.Caption
+msgid "Title"
+msgstr ""
+
+#: frmCEShareeXBrowser.Author.Caption
+msgid "Author"
+msgstr ""
+
+#: frmCEShareeXBrowser.Public.Caption
+msgid "Public"
+msgstr ""
+
+#: frmCEShareeXBrowser.Score.Caption
+msgid "Score"
+msgstr ""
+
+#: frmCEShareeXBrowser.Version.Caption
+msgid "Version independent"
+msgstr ""
+
+#: frmCEShareeXBrowser.Signed.Caption
+#msgid "Signed"
+#msgstr ""
+
+#: frmCEShareeXBrowser.Match.Caption
+msgid "% Match"
+msgstr ""
+
+#: frmCEShareeXBrowser.btnLoadTable.Caption
+msgid "    Load    "
+msgstr ""
+
+#: frmCEShareeXBrowser.btnAddViewComments.Caption
+msgid "Add/View Comments"
+msgstr ""
+
+#: frmCEShareeXBrowser.lblRate.Caption
+msgid "Rate:"
+msgstr ""
+
+#: frmCEShareeXBrowser.btnViewHistory.Caption
+msgid "View History"
+msgstr ""
+
+#: ceshare_frmComments.lblPrevious25.Caption
+msgid "Previous 25"
+msgstr ""
+
+#: ceshare_frmComments.lblNext25.Caption
+msgid "Next 25"
+msgstr ""
+
+#: ceshare_frmComments.btnSend.Caption
+msgid "   Send   "
+msgstr ""
+
+#: ceshare_initiaISetup.Caption
+msgid "CEShare Initial Setup"
+msgstr ""
+
+#: ceshare_initiaISetup.CELabel1.Caption
+msgid "CEShare community URL:"
+msgstr ""
+
+#: ceshare_initiaISetup.CELabel2.Caption
+msgid "By entering a CEShare URL you will be able to upload and download eX Tables from a ceshare server community"
+msgstr ""
+
+#: ceshare_initiaISetup.CELabel3.Caption
+msgid "Disclaimer: These are third-party servers. They are not owned or maintained by the Y eXgineer project, and no warranty regarding their content is given. 
+
+Please contact the respective server owner for further inquiries."
+msgstr ""
+
+#: ceshare_initiaISetup.CEButton1.Caption
+msgid "OK"
+msgstr ""
+
+#: ceshare_initiaISetup.CEButton2.Caption
+msgid "Cancel"
+msgstr ""
+
+#: ceshare_initiaISetup.CELabel4.Caption
+msgid "Click cancel if you don't wish to use this"
+msgstr ""
+
+#: frmCESharePublisheX.Caption
+msgid "Publish New eX"
+msgstr ""
+
+#: frmCESharePublisheX.lblTitle.Caption
+msgid "Title:"
+msgstr ""
+
+#: frmCESharePublisheX.cbVersionlndependent.Caption
+msgid "Version Independent"
+msgstr ""
+
+#: frmCESharePublisheX.lblHeaderMD5.Caption
+msgid "lblHeaderMD5"
+msgstr ""
+
+#: frmCESharePublisheX.lblHeaderMD5Text.Caption
+msgid "Header MD5:"
+msgstr ""
+
+#: frmCESharePublisheX.cbNeedsFullFilrHash.Caption
+msgid "Needs full file hash"
+msgstr ""
+
+#: frmCESharePublisheX.lblFullHeaderMD5Text.Caption
+msgid "Full file hash:"
+msgstr ""
+
+#: frmCESharePublisheX.lblFullHeaderMD5.Caption
+msgid "lblFullHeaderMD5"
+msgstr ""
+
+#: frmCESharePublisheX.cbUseSecondaryModule.Caption
+msgid "Needs secondary modulecheck"
+msgstr ""
+
+#: frmCESharePublisheX.lblModulename.Caption
+msgid "Modulename"
+msgstr ""
+
+#: frmCESharePublisheX.btnPublish.Caption
+msgid "Publish"
+msgstr ""
+
+#: frmCESharePublisheX.cbPublic.Caption
+msgid "Allow everyone to edit this table"
+msgstr ""
+
+#: ceshare_permissions.Caption
+msgid "Update Permissions"
+msgstr ""
+
+#: ceshare_permissions.lblIDTxt.Caption
+msgid "ID"
+msgstr ""
+
+#: ceshare_permissions.lblID.Caption
+msgid "lblID"
+msgstr ""
+
+#: ceshare_permissions.lblTitle.Caption
+msgid "lblTitle"
+msgstr ""
+
+#: ceshare_permissions.lblOwnerTxt.Caption
+msgid "Owner"
+msgstr ""
+
+#: ceshare_permissions.mrOK.Caption
+msgid "  OK  "
+msgstr ""
+
+#: ceshare_permissions.lblTitle.Caption
+msgid "lblTitle"
+msgstr ""
+
+#: miCESHARETopMenuItem.Caption
+msgid "CE Share"
+msgstr ""
+
+#: miCheckForeXs.Caption
+msgid "Check for mods/eXs for current process"
+msgstr ""
+
+#: miRequesteXs.Caption
+msgid "Request and check other requests for mods/eXs for current process"
+msgstr ""
+
+#: miLoginToSeeMoreOptions.Caption
+msgid "Login to see more options (Like publish Table)"
+msgstr ""
+
+#: miPublisheX.Caption
+msgid "Publish table"
+msgstr ""
+
+#: miUpdateeX.Caption
+msgid "Update table"
+msgstr ""
+
+#: lblCEShareLabel.Caption
+msgid "CEShare community URL"
+msgstr ""
+
+#: d.Caption
+msgid "Secondary identifier code"
+msgstr ""
+
+#: btnAllow.Caption
+msgid "Allow"
+msgstr ""
+
+#: btnCancel.Caption
+msgid "Cancel"
+msgstr ""
+
+#: header.caption
+msgid "This process needs a special identifier to set it apart from others with the same name. To generate this identifier the below code is needed. Do you agree with the execution of this code to generate the identifier?"
+msgstr ""
+
+#: Error
+msgid "Error:"
+msgstr ""
+
+#: IRFS
+msgid "Invalid reply from server:"
+msgstr ""
+
+#: SDNR
+msgid "Server did not respond"
+msgstr ""

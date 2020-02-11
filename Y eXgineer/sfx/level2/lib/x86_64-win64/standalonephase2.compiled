@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1325644550"/>
+  <Params Value=" -Rintel -MDelphi -Scghi -O3 -OoREGVAR -Xs -XX -WG -l -vewnhibq &quot;-FiC:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\sfx\level2\lib\x86_64-win64&quot; &quot;-FuC:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\sfx\level2\&quot; &quot;-FUC:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\sfx\level2\lib\x86_64-win64\&quot; &quot;-FEC:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\bin\&quot; &quot;-oC:\Users\lelan\source\_76eX_\eXternal\cheat-engine\Y eXgineer\bin\standalonephase2.dat&quot; -drelease standalonephase2.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

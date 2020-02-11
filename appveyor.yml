@@ -50,8 +50,8 @@ build_script:
 # scripts to run after build
 after_build:
   # zip the build archive
-  - tree /F "Cheat Engine\bin"
-  - 7z a Cheat-Engine-%APPVEYOR_REPO_COMMIT%.zip "Cheat Engine\bin"
+  - tree /F "Y eXgineer\bin"
+  - 7z a y-eXgineer-%APPVEYOR_REPO_COMMIT%.zip "Y eXgineer\bin"
 
 #---------------------------------#
 #       tests configuration       #
@@ -66,8 +66,8 @@ test: off
 
 #specify artifacts to upload
 artifacts:
-  - path: Cheat-Engine-%APPVEYOR_REPO_COMMIT%.zip
-    name: Cheat-Engine-%APPVEYOR_REPO_COMMIT%  
+  - path: y-eXgineer-%APPVEYOR_REPO_COMMIT%.zip
+    name: y-eXgineer-%APPVEYOR_REPO_COMMIT%  
 
 #---------------------------------#
 #     deployment configuration    #

@@ -1,5 +1,5 @@
 /*
-sigcheck is responsible for checking if the controlling process is Cheat Engine or another program signed by Dark Byte and not someone elses/modified one
+sigcheck is responsible for checking if the controlling process is Y eXgineer or another program signed by Dark Byte and not someone elses/modified one
 This is only in case of a signed release build
 */
 

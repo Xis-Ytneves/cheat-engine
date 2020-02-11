@@ -168,14 +168,14 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <DebuggerFlavor>DbgengKernelDebugger</DebuggerFlavor>
     <TargetName>ULTIMAP-32</TargetName>
-    <OutDir>..\Cheat Engine\bin\</OutDir>
+    <OutDir>..\Y eXgineer\bin\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <DebuggerFlavor>DbgengKernelDebugger</DebuggerFlavor>
     <TimeStampServer>http://timestamp.globalsign.com/scripts/timstamp.dll</TimeStampServer>
     <Inf2CatUseLocalTime>true</Inf2CatUseLocalTime>
     <TargetName>ULTIMAP-32</TargetName>
-    <OutDir>..\Cheat Engine\bin\</OutDir>
+    <OutDir>..\Y eXgineer\bin\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug but signed|Win32'">
     <DebuggerFlavor>DbgengKernelDebugger</DebuggerFlavor>
@@ -183,19 +183,19 @@
     <Inf2CatUseLocalTime>true</Inf2CatUseLocalTime>
     <EnableInf2cat>false</EnableInf2cat>
     <TargetName>ULTIMAP-32</TargetName>
-    <OutDir>..\Cheat Engine\bin\</OutDir>
+    <OutDir>..\Y eXgineer\bin\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <DebuggerFlavor>DbgengKernelDebugger</DebuggerFlavor>
     <TargetName>ULTIMAP-64</TargetName>
-    <OutDir>..\Cheat Engine\bin\</OutDir>
+    <OutDir>..\Y eXgineer\bin\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <DebuggerFlavor>DbgengKernelDebugger</DebuggerFlavor>
     <TimeStampServer>http://timestamp.globalsign.com/scripts/timstamp.dll</TimeStampServer>
     <Inf2CatUseLocalTime>true</Inf2CatUseLocalTime>
     <TargetName>ULTIMAP2-64</TargetName>
-    <OutDir>..\..\Cheat Engine\bin</OutDir>
+    <OutDir>..\..\Y eXgineer\bin</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug but signed|x64'">
     <DebuggerFlavor>DbgengKernelDebugger</DebuggerFlavor>
@@ -203,7 +203,7 @@
     <Inf2CatUseLocalTime>true</Inf2CatUseLocalTime>
     <EnableInf2cat>false</EnableInf2cat>
     <TargetName>ULTIMAP2-64</TargetName>
-    <OutDir>..\..\Cheat Engine\bin</OutDir>
+    <OutDir>..\..\Y eXgineer\bin</OutDir>
     <PostBuildEventUseInBuild>false</PostBuildEventUseInBuild>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
@@ -240,7 +240,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -252,7 +252,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -270,7 +270,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -288,7 +288,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -300,7 +300,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -318,7 +318,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -336,7 +336,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -351,7 +351,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -370,7 +370,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -389,7 +389,7 @@
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>
@@ -407,7 +407,7 @@
       <Command>cd $(MSBuildProjectDirectory)\$(Inf2CatSource)
 copy ..\ultimap2-64.pdb .
 makecab /f "$(ProjectDir)\ultimap2-64.ddf"
-"$(DriverSignToolPath)signtool.exe" sign /v /ac "..\..\release\sig\GlobalSign Root CA.crt" /n "Cheat Engine" /t http://timestamp.globalsign.com/scripts/timstamp.dll disk1\ultimap2-64.cab</Command>
+"$(DriverSignToolPath)signtool.exe" sign /v /ac "..\..\release\sig\GlobalSign Root CA.crt" /n "Y eXgineer" /t http://timestamp.globalsign.com/scripts/timstamp.dll disk1\ultimap2-64.cab</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>create cab and sign it</Message>
@@ -426,7 +426,7 @@ makecab /f "$(ProjectDir)\ultimap2-64.ddf"
       <TreatWarningAsError>false</TreatWarningAsError>
     </ClCompile>
     <PostBuildEvent>
-      <Command>copy $(TargetPath) "d:\svn\cheat engine\bin\ultimap2-64.sys"</Command>
+      <Command>copy $(TargetPath) "d:\svn\y eXgineer\bin\ultimap2-64.sys"</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>copy to ce bin folder</Message>

@@ -21,7 +21,7 @@
 	<Configurations>
 		<Configuration
 			Name="Debug|Win32"
-			OutputDirectory="..\..\..\Cheat Engine\bin"
+			OutputDirectory="..\..\..\Y eXgineer\bin"
 			IntermediateDirectory="../obj/lua5.1_dll/Debug"
 			ConfigurationType="2"
 			CharacterSet="2"
@@ -104,7 +104,7 @@
 		</Configuration>
 		<Configuration
 			Name="Debug|x64"
-			OutputDirectory="..\..\..\Cheat Engine\bin"
+			OutputDirectory="..\..\..\Y eXgineer\bin"
 			IntermediateDirectory="$(PlatformName)\$(ConfigurationName)"
 			ConfigurationType="2"
 			CharacterSet="2"
@@ -188,7 +188,7 @@
 		</Configuration>
 		<Configuration
 			Name="Release|Win32"
-			OutputDirectory="..\..\..\Cheat Engine\bin"
+			OutputDirectory="..\..\..\Y eXgineer\bin"
 			IntermediateDirectory="../obj/lua5.1_dll/Release"
 			ConfigurationType="2"
 			CharacterSet="2"
@@ -271,7 +271,7 @@
 		</Configuration>
 		<Configuration
 			Name="Release|x64"
-			OutputDirectory="..\..\..\Cheat Engine\bin"
+			OutputDirectory="..\..\..\Y eXgineer\bin"
 			IntermediateDirectory="../obj/lua5.1_dll/Release"
 			ConfigurationType="2"
 			CharacterSet="2"

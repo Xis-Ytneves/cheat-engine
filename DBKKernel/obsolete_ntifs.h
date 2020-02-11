@@ -996,9 +996,9 @@ extern PACL                         SeSystemDefaultDacl;
 #define COMPRESSION_FORMAT_NONE         (0x0000)
 #define COMPRESSION_FORMAT_DEFAULT      (0x0001)
 #define COMPRESSION_FORMAT_LZNT1        (0x0002)
-#define COMPRESSION_ENGINE_STANDARD     (0x0000)
-#define COMPRESSION_ENGINE_MAXIMUM      (0x0100)
-#define COMPRESSION_ENGINE_HIBER        (0x0200)
+#define COMPRESSION_gineer_STANDARD     (0x0000)
+#define COMPRESSION_gineer_MAXIMUM      (0x0100)
+#define COMPRESSION_gineer_HIBER        (0x0200)
 
 #define FILE_ACTION_ADDED                   0x00000001
 #define FILE_ACTION_REMOVED                 0x00000002
@@ -2004,7 +2004,7 @@ typedef struct _CC_FILE_SIZES {
 } CC_FILE_SIZES, *PCC_FILE_SIZES;
 
 typedef struct _COMPRESSED_DATA_INFO {
-    USHORT  CompressionFormatAndEngine;
+    USHORT  CompressionFormatAndgineer;
     UCHAR   CompressionUnitShift;
     UCHAR   ChunkShift;
     UCHAR   ClusterShift;
@@ -6371,7 +6371,7 @@ NTSYSAPI
 NTSTATUS
 NTAPI
 RtlCompressBuffer (
-    IN USHORT   CompressionFormatAndEngine,
+    IN USHORT   CompressionFormatAndgineer,
     IN PUCHAR   UncompressedBuffer,
     IN ULONG    UncompressedBufferSize,
     OUT PUCHAR  CompressedBuffer,
@@ -6521,7 +6521,7 @@ NTSYSAPI
 NTSTATUS
 NTAPI
 RtlGetCompressionWorkSpaceSize (
-    IN USHORT   CompressionFormatAndEngine,
+    IN USHORT   CompressionFormatAndgineer,
     OUT PULONG  CompressBufferWorkSpaceSize,
     OUT PULONG  CompressFragmentWorkSpaceSize
 );
